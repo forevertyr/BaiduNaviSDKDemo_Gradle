@@ -1,0 +1,11 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/mDb06llNaviBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="百度经纬度坐标"/>
+
+</RelativeLayout>
